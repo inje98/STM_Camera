@@ -1,0 +1,13 @@
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:82:6:MLX_TASK_	16	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:94:6:FUN_MLX90640_Init	8	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:111:6:FUN_MLX90640_Main_Routine	8	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:118:6:FUN_MLX90640_Error_Check_Routine	16	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:131:6:FUN_MLX90640_Routine	24	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:149:6:FUN_MLX90640_CalculateTo_Routine	16	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:633:6:FUN_Drop_InvalidFrame	24	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:737:6:FUN_Adjust_InvalidFixel	48	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:793:5:MLX90640_I2CRead	48	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:809:5:MLX90640_I2CWrite	40	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:837:10:MovingAverageFilter	24	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:847:6:Insert_Into_RawArray	16	static
+../Core/Source/mlx90640/MLX90640_I2C_Driver.c:859:6:calculate_line_sums	24	static

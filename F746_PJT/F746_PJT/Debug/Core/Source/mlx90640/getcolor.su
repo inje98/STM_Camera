@@ -1,0 +1,4 @@
+../Core/Source/mlx90640/getcolor.c:11:10:Change_me	32	static
+../Core/Source/mlx90640/getcolor.c:23:9:Scale_Hue	24	static
+../Core/Source/mlx90640/getcolor.c:40:10:HSV	104	static
+../Core/Source/mlx90640/getcolor.c:112:10:convertRGB	24	static

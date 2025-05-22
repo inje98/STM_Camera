@@ -1,0 +1,2 @@
+../Core/Source/ETH/TCP_SERVER.c:28:6:ETH_Task_	40	static
+../Core/Source/ETH/TCP_SERVER.c:85:6:TCP_Server_Send	24	static
